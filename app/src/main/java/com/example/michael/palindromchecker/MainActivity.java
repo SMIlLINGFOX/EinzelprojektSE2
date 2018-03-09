@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     //Das Projekt ist noch leer und bis auf das Layout wurde boch nichts gemacht.
-    //Ich kann nicht mehr als Hundert Files hochladen , deshalb werden hier nur die wichtigsten files Hochgeladen
+   
 
 
     TextView output;
